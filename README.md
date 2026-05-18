@@ -1,19 +1,39 @@
-# data-science-portfolio
-Personal learning portfolio — SQL, Python and data science projects as I transition from academic research to industry.
+# Data Science Portfolio
+Personal learning portfolio as I transition from academic research (PhD in
+Mathematics) to a career in data science and analytics. This repository
+collects SQL, Python and data analysis work I produce while learning.
 
-# CO2 and Greenhouse Gas Emissions Analysis
+## About me
+Mathematician by training, currently building data analysis skills with a
+focus on SQL, Python and business intelligence. Open to junior data analyst
+and BI roles.
 
-## Data Source
-This analysis uses the Our World in Data CO2 and Greenhouse Gas Emissions dataset.
+## Projects
 
-- **Source:** Our World in Data
-- **Dataset:** CO2 and Greenhouse Gas Emissions
-- **URL:** https://ourworldindata.org/co2-and-greenhouse-gas-emissions
-- **License:** Creative Commons BY
-- **Authors:** Pablo Rosado, Hannah Ritchie, Max Roser, Edouard Mathieu, Bobbie Macdonald
+### 🌍 [CO2 Emissions Analysis](./co2-emissions)
+*Has the Paris Agreement changed global CO2 emissions?*  
+Analysis of country-level emissions data before and after 2015 using SQL and
+Python visualisations. Demonstrates window functions, CTEs, and time-series
+analysis.
 
-> To reproduce this analysis, download the dataset CSV from the URL above
-> and import it into SQLite as a table named `co2`.
+**Skills:** SQL (SQLite), pandas, matplotlib, seaborn
 
-## Analysis
-*Queries and findings will be added here.*
+---
+
+## Learning exercises
+
+### 📚 [SQLZoo solutions](./sqlzoo)
+Solutions to the [SQLZoo](https://sqlzoo.net) tutorial exercises.
+
+---
+
+## Tools & technologies
+
+- **Languages:** SQL, Python
+- **Databases:** SQLite (planning to learn PostgreSQL)
+- **Python stack:** pandas, NumPy, matplotlib, seaborn, Jupyter
+- **Version control:** Git, GitHub
+- **Editors:** Atom, JupyterLab
+
+## Contact
+https://www.linkedin.com/in/enrico-di-gaspero-b23305121/
