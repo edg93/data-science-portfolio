@@ -23,7 +23,10 @@ analysis.
 ## Learning exercises
 
 ### 📚 [SQLZoo solutions](./sqlzoo)
-Solutions to the [SQLZoo](https://sqlzoo.net) tutorial exercises.
+Solutions to the [SQLZoo](https://sqlzoo.net) tutorial exercises - written as I build SQL fluency. Covers SELECT, JOINs, aggregations and window functions across the standard SQLZoo tutorial sequence.
+
+### 🎄 [Advent of Code](https://github.com/edg93/Advent-of-Code)
+Python solutions to Advent of Code puzzles, 2015–2025 (508/524 stars).
 
 ---
 
