@@ -223,3 +223,9 @@ __marimo__/
 *.csv
 *.xlsx
 *.json
+
+# Tableau temp/extract files
+*.hyper
+*.tde
+*.tdsx
+Backup of *.twbx
