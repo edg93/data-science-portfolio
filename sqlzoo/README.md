@@ -9,6 +9,7 @@ Each file corresponds to one tutorial section, with each problem commented to sh
 - [`01_select_basics.sql`](./01_select_basics.sql) — SELECT basics
 - [`02_select_from_world.sql`](./02_select_from_world.sql) — SELECT from World
 - [`03_select_from_nobel.sql`](./03_select_from_nobel.sql) — SELECT from Nobel
+- [`04_select_within_select.sql`](./04_select_within_select.sql) — SELECT within SELECT
 - *(more added as I complete them)*
 
 ## A note on SQL dialect
